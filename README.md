@@ -1,6 +1,6 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F7732A&center=true&width=435&lines=Hey+there%2C+This+is+Soham+Bhagwat!;Nice+to+meet+you!)](https://git.io/typing-svg)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
   <div id="badges">
   <a href="[www.linkedin.com/in/soham-bhagwat](https://www.linkedin.com/in/soham-bhagwat/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
