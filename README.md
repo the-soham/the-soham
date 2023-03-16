@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F7732A&center=true&width=435&lines=Hey+there%2C+This+is+Soham+Bhagwat!;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 #### About Me:
- + 🎓I am a Data Science Grad student @[Indiana University, Bloomington](https://www.indiana.edu/about/index.html) with specialization in Big Data Systems.
+ + 🎓I am a Data Science Grad student @[Indiana University, Bloomington](https://www.indiana.edu/about/index.html) specializing in Big Data Systems.
  + 📝My interests lie in Applied Machine Learning.
- + 🏦I was a former R&D intern(DevOps) @[PTC](www.ptc.com)
+ + 🏦I was a former R&D intern(DevOps) @[PTC](https://www.ptc.com/)
  + 📚 Currently I'm learning about Graph Analytics and GNNs
 
 #### Connect with me:
