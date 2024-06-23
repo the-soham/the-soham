@@ -6,7 +6,7 @@
  + 🎓I am a Data Science Grad student @[Indiana University, Bloomington](https://www.indiana.edu/about/index.html) specializing in Big Data Systems.
  + 📝My interests lie in Applied Machine Learning.
  + 🏦I was a former R&D intern(DevOps) @[PTC](https://www.ptc.com/)
- + 📚 Currently I'm learning about Graph Analytics and GNNs
+ + 📚 Currently I'm learning about Data Engineering Concepts
 
 #### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soham-bhagwat/)
